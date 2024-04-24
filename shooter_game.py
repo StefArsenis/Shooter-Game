@@ -1,5 +1,5 @@
 #Create your own shooter
-
+print('Hello World')
 from pygame import *
 from random import randint
 #create game window
